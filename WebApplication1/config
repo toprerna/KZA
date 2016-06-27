@@ -5,5 +5,13 @@
 	symlinks = false
 	ignorecase = true
 	sharedrepository = 2
+	autocrlf = true
 [receive]
 	denyNonFastforwards = true
+[user]
+	name = toprerna
+	email = toprerna@yahoo.com
+[merge]
+	tool = kdiff3
+[i18n]
+	filesEncoding = Windows-1252
