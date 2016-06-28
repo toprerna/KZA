@@ -17,6 +17,8 @@
     </h2>
     <h2>
         Welcome to ASP.NET!
+        </br>
+        <a href=newpage.htm>Go to HD page</a>
     </h2>
     <p>
         To learn more about ASP.NET visit <a href="http://www.asp.net" title="ASP.NET Website">www.asp.net</a>.
